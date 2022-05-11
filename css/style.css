@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+}
+.all{
+    background-color: #ccc;
+}
+.header{
+    background-color: #27d844;
+    height: 150px;
+}
+h1{
+    margin: 0 570px;
+    padding-top: 10px;
+    font-size: 50px;
+}
+.nav{
+    background-color: #3dff2d;
+    width: 1336px;
+    height: 30px;
+    display: block;
+    text-align: center;
+    margin: 28px auto;
+    padding: 5px;
+}
+h2{
+    text-align: center;
+}
+.logo {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 50px;
+    width: 50px;
+    padding-top: 25px;
+    margin-right: 7px;
+}
+.body{
+    background-color: #3dff2d;
+    margin-top: 10px;
+    width: 1099px;
+    float: left;
+    height: 300px;
+}
+.side-bar{
+    background-color: #3dff2d;
+    margin-top: 10px;
+    width: 250px;
+    float: right;
+    height: 300px;
+}
+ul.hor_nav{
+    margin: 0;
+    padding: 4px;
+}
+li{
+    display: inline-block;
+    margin-right: 40px;
+    padding: 3px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+.main-content{
+    height: 322px;
+    background-color: #27d844;
+    margin-top: 20px;
+}
+.photo{
+    margin-left: 14px;
+}
+.footer{
+    background-color: #27d844;
+    margin-top: 5px;
+}
+p{
+    padding: 10px;
+}
+.start{
+    font-size: 20px;
+}
