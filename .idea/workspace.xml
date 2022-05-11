@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="113c5bc1-e2be-43bf-813b-4588410c14ce" name="Changes" comment="git add web">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="113c5bc1-e2be-43bf-813b-4588410c14ce" name="Changes" comment="i'm tire">
       <change beforePath="$PROJECT_DIR$/web" beforeDir="false" afterPath="$PROJECT_DIR$/web" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,8 +87,16 @@
       <workItem from="1650957529864" duration="702000" />
       <workItem from="1651229594949" duration="287000" />
       <workItem from="1652178702134" duration="388000" />
-      <workItem from="1652269368405" duration="10614000" />
+      <workItem from="1652269368405" duration="11202000" />
     </task>
+    <task id="LOCAL-00001" summary="i'm tired">
+      <created>1652281837400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652281837400</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +116,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="web" />
     <MESSAGE value="git add web" />
-    <option name="LAST_COMMIT_MESSAGE" value="git add web" />
+    <MESSAGE value="i'm tired" />
+    <MESSAGE value="i'm tire" />
+    <option name="LAST_COMMIT_MESSAGE" value="i'm tire" />
   </component>
 </project>
